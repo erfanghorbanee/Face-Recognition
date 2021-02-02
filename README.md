@@ -1,7 +1,7 @@
 # Face-Recognition
 
 ## Requirements
-Before running the file you need to install these modules: 
+Before running the file you need to install these modules : 
 - cmake module using `pip install cmake` command.
 - dlib module using `pip install dlib` command.
 - face_recognition module using `pip install face_recognition` command.
