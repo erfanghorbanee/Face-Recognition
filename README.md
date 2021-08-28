@@ -1,5 +1,5 @@
 # Face-Recognition
-
+A simple face recognition using python. 
 ## Requirements
 Before running the file you need to install these modules : 
 - cmake module using `pip install cmake` command.
